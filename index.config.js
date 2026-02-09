@@ -123,18 +123,18 @@ var index_config_default = {
       address: "http://zhangqun1818.serv00.net:6628/?spider=兔小贝"}
 ]},
   cms: {list: [
-{name: "👖裤佬丨极速丨采集",
-address: "https://jszyapi.com/api.php/provide/vod"},
-{name: "👖裤佬丨暴风丨采集",
-address: "http://by.bfzyapi.com/api.php/provide/vod"},
-{name: "👖裤佬丨iQiYi丨采集",
-address: "https://iqiyizyapi.com/api.php/provide/vod"},
-{name: "👖裤佬丨量子丨采集",
-address: "https://cj.lziapi.com/api.php/provide/vod"},
-{name: "👖裤佬丨如意丨采集",
-address: "http://cj.rycjapi.com/api.php/provide/vod"},
-{name: "👖裤佬丨茅台丨采集",
-address: "https://caiji.maotaizy.cc/api.php/provide/vod"}
+{name: "👖🔞裤佬丨麻花丨采集",
+address: "https://19q.cc/api.php/provide/vod"},
+{name: "👖🔞裤佬丨杏吧丨采集",
+address: "https://xingba111.com/api.php/provide/vod/?ac=list"},
+{name: "👖🔞裤佬丨细胞丨采集",
+address: "https://www.xxibaozyw.com/api.php/provide/vod"},
+{name: "👖🔞裤佬丨玉兔丨采集",
+address: "https://apiyutu.com/api.php/provide/vod"},
+{name: "👖🔞裤佬丨乐播丨采集",
+address: "https://lbapi9.com/api.php/provide/vod"},
+{name: "👖🔞裤佬丨幸源丨采集",
+address: "https://xzybb1.com/api.php/provide/vod"}
 ]},
   alist: [
     {
